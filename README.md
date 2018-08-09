@@ -1,9 +1,9 @@
-# Project-Team-8
+# Team Project
 **Team Name:** MegaHertz
 
-**Team Members:**
-1)	Shraddha Chadha
-2)	Shreya Shah
+**Contributors:**
+1)	Shreya Shah
+2)	Shraddha Chadha
 3)	Tarang Dhulkotia
 4)	LakshmiPrasanna Kona
 
