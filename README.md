@@ -15,10 +15,10 @@ This application is based on a crowd-sourced model. The application captures use
 
 **Problem**
 
-- People are frustrated with lack of accessing family doctor at the time of need
-- Long wait times (sometimes months) of the non urgent cases
-- Most of the people admit to self diagnosing themselves through Google
-- New parents take the help of social media to avoid unnecessary doctor visits
+- People are frustrated with lack of accessing family doctor at the time of need.
+- Long wait times (sometimes months) of the non urgent cases.
+- Most of the people admit to self diagnosing themselves through Google.
+- New parents take the help of social media to avoid unnecessary doctor visits.
 
 **Design Objective**
 
